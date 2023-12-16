@@ -10,6 +10,11 @@
     color: #3c4044;
 }
 
+.bg-light{
+    background-color: #f4f4f4;
+    color: #333;
+}
+
 .d-flex{
     display: flex;
 }
@@ -25,7 +30,15 @@
     background-color: #28a745;
     color: #fff;
 }
-
+.icon-success{
+    background-color: green;
+    padding: 15px;
+    border-radius: 50%;
+    color: whitesmoke;
+}
+.row-reverse{
+    font-display: row-reverse;
+}
 .d-col{
     flex-direction: column;
 }
@@ -34,6 +47,5 @@
     background-color: #28a745;
     padding: 15px;
     border-radius: 50%;
-    color: white;
-    
+    color: white;   
 }
